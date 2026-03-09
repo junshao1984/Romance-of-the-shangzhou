@@ -1,0 +1,46 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 临时文件
+*.tmp
+*.temp
+
+# 编译输出
+dist/
+build/
+*.class
+*.exe
+
+# 依赖目录
+node_modules/
+bower_components/
+
+# 环境变量
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 大型媒体文件
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+
+# 文档生成
+_site/
+.sass-cache/
+.jekyll-metadata
